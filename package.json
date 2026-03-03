@@ -1,0 +1,18 @@
+{
+  "name": "@foundationalresearch/technicalanalysis",
+  "version": "1.0.0",
+  "description": "Technical analysis skill — chart patterns, indicators, trend analysis, and support/resistance for financial agents",
+  "keywords": ["ai-skill", "financial-analysis", "technical-analysis", "chart-patterns", "indicators", "rsi", "macd", "support-resistance", "llm", "claude", "cursor", "codex"],
+  "author": "FoundationalResearch",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FoundationalResearch/technicalanalysis.git"
+  },
+  "homepage": "https://github.com/FoundationalResearch/technicalanalysis#readme",
+  "bugs": {
+    "url": "https://github.com/FoundationalResearch/technicalanalysis/issues"
+  },
+  "files": ["SKILL.md", "references/", "README.md", "LICENSE"],
+  "type": "module"
+}
