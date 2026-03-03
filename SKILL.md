@@ -1,9 +1,6 @@
 ---
 name: technical-analysis
 description: Technical analysis methodology covering chart patterns, indicators, trend analysis, and support/resistance levels
-metadata:
-  author: scrutari
-  version: "1.0"
 ---
 
 # Technical Analysis
